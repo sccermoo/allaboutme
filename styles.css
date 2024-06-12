@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(238, 200, 191);
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(180, 116, 126);
+  }
+
+  .about{
+    background-image: url(https://i.pinimg.com/564x/b7/42/c3/b742c354cf1f71fd09711cb73120217b.jpg);
+
+  }
+
+
+  .my{background-image: url(https://i.pinimg.com/564x/50/41/11/50411119b457246378c9be38acc2d033.jpg);}
+  
+  menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+  }
